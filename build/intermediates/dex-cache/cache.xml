@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-70c9903cf4c36df898ec3eaf83adf4456dd477aa.jar" />
+    </item>
+    <item
+        jar="D:\Removable Disk (Z)\INSTALLER-ICT\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1-08b70b71278a868db0db1e60ae1a10b559f8a12c.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-582ce4eb48e4b38345bf4fef95212576b837527b.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-43a17473ec7f24ebaf773f0613847abeceb055a6.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-b03c6727bfa8a32ccc3e844ffb1826800cbdf1bf.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-95de485b64220d578826b284a3bcb7efc982fe52.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-b2ef339185971b3db31e8049fffc44d72f9dd16d.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-8a67baecf356bb560b5aba009ebb1a019a5c5d80.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-e39e32025c3eda480c90054de11fd6d216d5214b.jar" />
+    </item>
+    <item
+        jar="D:\Ngitung\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Ngitung\app\build\intermediates\pre-dexed\debug\classes-ef905317f3d156d8cb981fab3d6aa7285f3badd7.jar" />
+    </item>
+
+</items>
